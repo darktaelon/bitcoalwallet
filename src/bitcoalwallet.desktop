@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=BitCoal Wallet
-Comment=BitCoal wallet
-Exec=bitcoalwallet %U
+Name=DarkTaelon Wallet
+Comment=DarkTaelon wallet
+Exec=DarkTaelonwallet %U
 Terminal=false
 Type=Application
-Icon=bitcoal
-MimeType=x-scheme-handler/bitcoal;
+Icon=darktaelon
+MimeType=x-scheme-handler/darktaelon;
 Categories=Office;Finance;
